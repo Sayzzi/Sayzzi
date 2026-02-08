@@ -48,14 +48,20 @@ Currently sharpening my skills across the full stack — from pixel-perfect fron
 
 <br/>
 
-📊 GitHub Stats
-<br/>
-<img src="https://github-readme-stats-fs9jkfxzn-sayzzis-projects.vercel.app/api?username=Sayzzi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Sayzzi's GitHub Stats" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayzzi&theme=github_dark" alt="Sayzzi's Stats" height="170"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayzzi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Sayzzi's Streak" height="170"/>
+
 <br/><br/>
-<img src="https://github-readme-stats-fs9jkfxzn-sayzzis-projects.vercel.app/api/top-langs/?username=Sayzzi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="170"/>
-<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayzzi&theme=github_dark" alt="Top Languages by Repo" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayzzi&theme=github_dark" alt="Top Languages by Commit" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayzzi&theme=github_dark" alt="Activity Graph" width="660"/>
+
 <br/>
 
 ---
