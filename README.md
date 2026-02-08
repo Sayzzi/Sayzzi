@@ -48,7 +48,7 @@ Currently sharpening my skills across the full stack — from pixel-perfect fron
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sayzzi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Sayzzi's GitHub Stats" height="170"/>
+<img src="github-readme-stats-fs9jkfxzn-sayzzis-projects.vercel.app/api?username=Sayzzi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Sayzzi's GitHub Stats" height="170"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayzzi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Sayzzi's Streak" height="170"/>
 
